@@ -42,8 +42,8 @@ My hobby is solving algorithm problems and making apps using Dart and Flutter.
 
 📫 Contact 📫
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matilto:seyeon040768@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/2seyeon_71/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : seyeon040768@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/2seyeon_71/) : 2seyeon_71
 
 </center>
 <br/>
