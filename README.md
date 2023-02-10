@@ -3,7 +3,7 @@
 <center>
 📝 Info 📝
 
-I am a college student majoring in AI and computer science. I like to read papers on AI and implement models. My goal is to make my own AI model.
+I am a university student majoring in AI and computer science. I like to read papers on AI and implement models. My goal is to make my own AI model.
 
 My hobby is solving algorithm problems and making apps using Dart and Flutter.
 </center>
