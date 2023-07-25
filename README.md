@@ -3,9 +3,8 @@
 <center>
 📝 Info 📝
 
-I am a university student majoring in AI and computer science. I like to read papers on AI and implement models. My goal is to make my own AI model.
+description: I am a undergraduate majoring in AI and computer science. I like to read papers on AI and implement models. I am also interested in developing games.
 
-My hobby is solving algorithm problems and making apps using Dart and Flutter.
 </center>
 
 <center>
@@ -16,8 +15,8 @@ My hobby is solving algorithm problems and making apps using Dart and Flutter.
 🔥 Main Skills 🔥
         
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=CSharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=Dart&logoColor=white)
 
 <br/>
 
@@ -27,7 +26,7 @@ My hobby is solving algorithm problems and making apps using Dart and Flutter.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 <br/>
 
@@ -35,8 +34,7 @@ My hobby is solving algorithm problems and making apps using Dart and Flutter.
 
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=Dart&logoColor=white)
 
 <br/>
 
