@@ -40,7 +40,7 @@ description: I am a undergraduate majoring in AI and computer science. I like to
 
 📫 Contact 📫
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : seyeon040768@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyeon040768@gmail.com) : seyeon040768@gmail.com
 <br/>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/2seyeon_71/) : 2seyeon_71
 
