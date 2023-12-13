@@ -3,7 +3,7 @@
 <center>
 📝 Info 📝
 
-description: I am a undergraduate majoring in AI and computer science. I like to read papers on AI and implement models. I am also interested in developing games.
+I am a undergraduate majoring in AI and computer science. I like to read papers on AI and implement models. I am also interested in developing games.
 
 </center>
 
