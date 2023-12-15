@@ -34,7 +34,7 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=Dart&logoColor=white)
 
 <br/>
