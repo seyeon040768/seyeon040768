@@ -24,8 +24,8 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 
 💧 Used frequently 💧
 
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
 
 
 <br/>
