@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&height=200&color=gradient&customColorList=1,10,30&text=Welcome!&&fontColor=FFFFFF&fontAlignY=30&desc=This%20is%20Seyeon%27s%20Github&descAlign=57&descAlignY=50&animation=fadeIn)
 
 <center>
-📜 Info 📜
+## 📜 Info 📜
 
 Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and computer science. I am interested in artificial intelligence, graphics, and developing games. My goal is to create a more lively, realistic game by incorporating artificial intelligence into game development.
 
@@ -12,7 +12,7 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 <br/>
 <br/>
 
-🔥 Main Skills 🔥
+## 🔥 Main Skills 🔥
         
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -22,7 +22,7 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 
 <br/>
 
-💧 Used frequently 💧
+## 💧 Used frequently 💧
 
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
@@ -30,7 +30,7 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 
 <br/>
 
-❄ Used at least once ❄
+## ❄ Used at least once ❄
 
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +39,7 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 
 <br/>
 
-📫 Contact 📫
+## 📫 Contact 📫
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyeon040768@gmail.com) : seyeon040768@gmail.com
 <br/>
