@@ -9,11 +9,12 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 </center>
 
 <center>
-⚒ Tech Stack ⚒ 
+        
+## ⚒ Tech Stack ⚒ 
 <br/>
 <br/>
 
-## 🔥 Main Skills 🔥
+### 🔥 Main Skills 🔥
         
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -23,7 +24,7 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 
 <br/>
 
-## 💧 Used frequently 💧
+### 💧 Used frequently 💧
 
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
@@ -31,7 +32,7 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 
 <br/>
 
-## ❄ Used at least once ❄
+### ❄ Used at least once ❄
 
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
