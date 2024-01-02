@@ -11,9 +11,6 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 <center>
         
 ## ⚒ Tech Stack ⚒ 
-<br/>
-<br/>
-
 ### 🔥 Main Skills 🔥
         
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
