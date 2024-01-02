@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&height=200&color=gradient&customColorList=1,10,30&text=Welcome!&&fontColor=FFFFFF&fontAlignY=30&desc=This%20is%20Seyeon%27s%20Github&descAlign=57&descAlignY=50&animation=fadeIn)
 
 <center>
+        
 ## 📜 Info 📜
 
 Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and computer science. I am interested in artificial intelligence, graphics, and developing games. My goal is to create a more lively, realistic game by incorporating artificial intelligence into game development.
