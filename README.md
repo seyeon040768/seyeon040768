@@ -19,6 +19,7 @@ Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
+![ROS](https://img.shields.io/badge/ros-100000?style=for-the-badge&logo=ros&logoColor=22314E&labelColor=F1F1F1&color=F1f1f1)
 
 <br/>
 
