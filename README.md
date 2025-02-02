@@ -4,7 +4,7 @@
         
 ## 📜 Info 📜
 
-Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and computer science. I am interested in artificial intelligence, graphics, and developing games. My goal is to create a more lively, realistic game by incorporating artificial intelligence into game development.
+Hello! I am Lee Seyeon, an undergraduate majoring in artificial intelligence and mechanics. I am interested in artificial intelligence, graphics, and robotics.
 
 </center>
 
